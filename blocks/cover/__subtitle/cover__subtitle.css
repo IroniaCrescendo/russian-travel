@@ -9,6 +9,11 @@
     position: relative;       
 }
 
+.cover__subtitle:hover {    
+    opacity: 0.7;
+    transition: opacity 0.5s ease-in;
+}
+
 @media screen and (max-width: 1024px) {
     .cover__subtitle {    
         padding-bottom: 195px;                     
