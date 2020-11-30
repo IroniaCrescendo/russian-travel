@@ -1,9 +1,9 @@
-.place__website {    
-    align-self: end;
+.place__website {
+  align-self: end;
 }
 
 @media screen and (max-width: 528px) {
-    .place__website {    
-     display: none;         
-    }
+  .place__website {
+    display: none;
+  }
 }

@@ -1,4 +1,4 @@
-.header {    
+.header {
   max-height: 52px;
   max-width: 1184px;
   padding-top: 28px;
@@ -9,23 +9,23 @@
 }
 
 @media screen and (max-width: 1024px) {
-  .header {    
+  .header {
     max-width: 928px;
-    padding-bottom: 48px;        
+    padding-bottom: 48px;
   }
 }
 
 @media screen and (max-width: 768px) {
-  .header {    
-    max-width: 720px;           
+  .header {
+    max-width: 720px;
   }
 }
 
 @media screen and (max-width: 320px) {
-  .header {    
+  .header {
     max-width: 288px;
     max-height: 42px;
     padding-top: 16px;
-    justify-content: space-around;         
+    justify-content: space-around;
   }
 }

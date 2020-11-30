@@ -1,56 +1,55 @@
 .cover__subtitle {
-    color: white;
-    font-size: 18px;    
-    line-height: 1.2;
-    margin: 0 auto;
-    text-align: center;
-    max-width: 360px;
-    padding-bottom: 245px;    
-    position: relative;       
+  color: white;
+  font-size: 18px;
+  line-height: 1.2;
+  margin: 0 auto;
+  text-align: center;
+  max-width: 360px;
+  padding-bottom: 245px;
+  position: relative;
 }
 
-.cover__subtitle:hover {    
-    opacity: 0.7;
-    transition: opacity 0.5s ease-in;
+.cover__subtitle:hover {
+  opacity: 0.7;
+  transition: opacity 0.5s ease-in;
 }
 
 @media screen and (max-width: 1024px) {
-    .cover__subtitle {    
-        padding-bottom: 195px;                     
-    }
+  .cover__subtitle {
+    padding-bottom: 195px;
+  }
 }
-  
+
 @media screen and (max-width: 768px) {
-    .cover__subtitle {
-        padding-bottom: 115px;                          
-    }
+  .cover__subtitle {
+    padding-bottom: 115px;
+  }
 }
 
 @media screen and (max-width: 680px) {
-    .cover__subtitle {       
-        font-size: calc(0.7em + 0.7vw);
-        padding-bottom: 106px;            
-    }
+  .cover__subtitle {
+    font-size: calc(0.7em + 0.7vw);
+    padding-bottom: 106px;
+  }
 }
-  
+
 @media screen and (max-width: 425px) {
-    .cover__subtitle {  
-        font-size: 14px;
-        line-height: 1.1;               
-        max-width: 288px;        
-        padding-bottom: 62px;           
-    }
+  .cover__subtitle {
+    font-size: 14px;
+    line-height: 1.1;
+    max-width: 288px;
+    padding-bottom: 62px;
+  }
 }
 
 @media screen and (max-width: 320px) {
-    .cover__title {       
-        padding-bottom: 33px;                 
-    }
+  .cover__title {
+    padding-bottom: 33px;
+  }
 }
 
-
 @media screen and (max-width: 310px) {
-    .cover__subtitle {
-        font-size: 5vw;           
-    }
+  .cover__subtitle {
+    font-size: 5vw;
+  }
 }
