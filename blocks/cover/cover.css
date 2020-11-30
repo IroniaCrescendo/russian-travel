@@ -1,8 +1,8 @@
 .cover {
     background-image: url('../../images/cover-trainsS.jpg');
-    background-size: cover;    
-    max-width: 1184px;       
-    background-repeat: no-repeat; 
+    background-size: cover;
+    max-width: 1184px;
+    background-repeat: no-repeat;
     background-position: center;
     box-sizing: border-box;
     position: relative;
