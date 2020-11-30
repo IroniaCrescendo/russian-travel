@@ -1,0 +1,13 @@
+.header__lang-link {
+    color: white;
+    padding-right: 18px;    
+    text-decoration: none;       
+}
+
+.header__lang-link:focus {
+    text-decoration: underline;    
+}
+
+.header__lang-link:last-child {    
+    padding-right: 0;    
+}

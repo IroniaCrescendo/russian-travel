@@ -1,0 +1,22 @@
+@font-face {    
+    src: url('../fonts/Inter-Regular.woff') format('woff');
+    src: url('../fonts/Inter-Regular.woff2') format('woff2');
+    font-family: 'Inter';    
+    font-style: normal; 
+    font-weight: normal;
+}
+
+@font-face {
+    src: url('../fonts/Inter-ExtraBold.woff') format('woff');
+    src: url('../fonts/Inter-ExtraBold.woff2') format('woff2');
+    font-family: 'Inter';    
+    font-style: normal; 
+    font-weight: 900;
+}
+
+-webkit-text-size-adjust: 100%;
+-ms-text-size-adjust: 100%;
+-moz-text-size-adjust: 100%;
+
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
