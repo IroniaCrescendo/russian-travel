@@ -27,20 +27,19 @@
   }
 }
 
-@media screen and (max-width: 528px) {
+@media screen and (max-width: 540px) {
   .place {
     max-width: 528px;
     grid-template-columns: auto;
     grid-template-rows: repeat(3, auto);
     gap: 32px 0;
     padding-bottom: 49px;
-    justify-items: center;
+    justify-items: start;
   }
 }
 
 @media screen and (max-width: 320px) {
   .place {
-    max-width: 320px;
-    justify-items: start;
+    max-width: 320px;    
   }
 }

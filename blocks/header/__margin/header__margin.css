@@ -1,0 +1,7 @@
+.header__margin {
+  margin-right: 18px;
+}
+
+.header__margin:last-child {
+  margin-right: 0;
+}

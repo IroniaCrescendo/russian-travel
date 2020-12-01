@@ -7,6 +7,13 @@
   margin: 0 auto 92px;
 }
 
+@media screen and (max-width: 1280px) {
+  .photo-grid {
+    padding-left: 48px;
+    padding-right: 48px;
+  }
+}
+
 @media screen and (max-width: 1024px) {
   .photo-grid {
     max-width: 928px;
@@ -16,6 +23,14 @@
   }
 }
 
+@media screen and (max-width: 970px) {
+  .photo-grid {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+
+
 @media screen and (max-width: 768px) {
   .photo-grid {
     max-width: 720px;
@@ -23,6 +38,13 @@
     grid-template-rows: repeat(6, 1fr);
     gap: 16px;
     margin: 0 auto 88px;
+  }
+}
+
+@media screen and (max-width: 745px) {
+  .photo-grid {
+    padding-left: 16px;
+    padding-right: 16px;
   }
 }
 

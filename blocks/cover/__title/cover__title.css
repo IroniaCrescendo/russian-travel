@@ -11,11 +11,6 @@
   position: relative;
 }
 
-.cover__title:hover {
-  opacity: 0.7;
-  transition: opacity 0.5s ease-in;
-}
-
 @media screen and (max-width: 1024px) {
   .cover__title {
     padding-top: 195px;
