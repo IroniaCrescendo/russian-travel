@@ -1,7 +1,7 @@
 .lead__image {
   width: 984px;
-  height: 615px;  
-  margin: 0 auto 8px;  
+  height: 615px;
+  margin: 0 auto 8px;
 }
 
 @media screen and (max-width: 1024px) {
